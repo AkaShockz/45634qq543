@@ -1,1 +1,6 @@
-[] 
+{
+  "bradlakin1": {
+    "password": "$2b$12$8TvfnlCuIuJh.fpzmaNvE.pNVu9Akwe7soJbLBenj1NqatIfyLkki",
+    "enabled": true
+  }
+}
