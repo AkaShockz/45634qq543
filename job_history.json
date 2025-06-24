@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "20250624_164353",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_164353.csv",
+    "user": "bradlakin1"
+  },
+  {
+    "timestamp": "20250624_164240",
+    "job_type": "AC01",
+    "csv_path": "history/history_AC01_20250624_164240.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_163247",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_163247.csv",
+    "user": "bradlakin1"
+  },
+  {
+    "timestamp": "20250624_162937",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_162937.csv",
+    "user": "bradlakin1"
+  },
+  {
+    "timestamp": "20250624_162927",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_162927.csv",
+    "user": "bradlakin1"
+  },
+  {
+    "timestamp": "20250624_162924",
+    "job_type": "CW09",
+    "csv_path": "history/history_CW09_20250624_162924.csv",
+    "user": "bradlakin1"
+  },
+  {
+    "timestamp": "20250624_162623",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_162623.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_162603",
+    "job_type": "GR11",
+    "csv_path": "history/history_GR11_20250624_162603.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_161922",
+    "job_type": "BC04",
+    "csv_path": "history/history_BC04_20250624_161922.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_154956",
+    "job_type": "AC01",
+    "csv_path": "history/history_AC01_20250624_154956.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_154215",
+    "job_type": "BC04",
+    "csv_path": "history/history_BC04_20250624_154215.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_153659",
+    "job_type": "BC04",
+    "csv_path": "history/history_BC04_20250624_153659.csv",
+    "user": null
+  },
+  {
+    "timestamp": "20250624_153527",
+    "job_type": "BC04",
+    "csv_path": "history/history_BC04_20250624_153527.csv",
+    "user": null
+  }
+]

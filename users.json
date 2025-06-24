@@ -1,0 +1,10 @@
+{
+  "bradlakin1": {
+    "password": "$2b$12$8s4x241piQB/3vSqWtviGuVaDVr1NsCX3vuNplkrHfYtdTUh4A4Bi",
+    "enabled": true
+  },
+  "User1": {
+    "password": "$2b$12$iTuo1hSUh8IHI1wN.IGdI.sXBE5ohfmUGY7ZTshhQ0ar6EZpzL3O.",
+    "enabled": true
+  }
+}

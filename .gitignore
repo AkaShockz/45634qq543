@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated job files in jobs directory
+jobs/*.csv
+jobs/*.xlsx
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+venv/
+env/
+ENV/
+
+# Windows specific
+*.lnk
+
+# Backups
+backups/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Additional files
+debug_log.txt
+credentials.json
+token.json
+output/ 
